@@ -1,0 +1,10 @@
+createBrowserRouter() --> This works same as Browser router but here we can send data
+
+useLoaderData() --> here it is useful because it depends on render as you fetch property while 
+useEffect() depends on the fetch after render property which create waterfalls
+
+useNavigation() --> It is universal so it will appear everytime
+
+useNavigate() -> It helps to navigate to particular page, we can use this when we want to contionally show something
+
+useRouteError()
