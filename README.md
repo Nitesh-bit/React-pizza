@@ -1,6 +1,6 @@
 # React-Pizza App
 
-This is an fully responsive app where users can place the order for pizza/s. This app is built using React router v6.4, Redux toolkit and Tailwind.
+This is a fully responsive app where users can place an order for pizza/s. This app is built using React router v6.4, Redux toolkit, and Tailwind.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ This is an fully responsive app where users can place the order for pizza/s. Thi
 
 Users should be able to:
 
-- Enter their name which will get reflect to the page later.
+- Enter their name which will be reflected on the page later.
 - Add different pizza/s with different quantities.
 - Delete pizza/s which they don't want from the order.
 - Place the order by giving their residence details.
