@@ -1,6 +1,6 @@
 # React-Pizza App
 
-This is an app where users can place the order for pizza/s. This app is built using React router v6.4, Redux toolkit and Tailwind.
+This is an fully responsive app where users can place the order for pizza/s. This app is built using React router v6.4, Redux toolkit and Tailwind.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ This is an app where users can place the order for pizza/s. This app is built us
 
 Users should be able to:
 
-- Enter their name which will reflect to the page.
+- Enter their name which will get reflect to the page later.
 - Add different pizza/s with different quantities.
 - Delete pizza/s which they don't want from the order.
 - Place the order by giving their residence details.
@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Github Repo]()
+- Github URL: [Github Repo](https://github.com/Nitesh-bit/React-pizza)
 - Live Site URL: [Project Link](https://reactpizza-1210.netlify.app/)
 
 ## My process
@@ -47,6 +47,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Tailwind
+- Fully responsive
 - [React](https://reactjs.org/) - JS library
 - React Router v6.4
 - Redux Toolkit
